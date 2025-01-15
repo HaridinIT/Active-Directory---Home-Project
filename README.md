@@ -1,7 +1,7 @@
 <h1>Active Directory Domain Services and Integration with Okta and Entra ID - Home Project</h1>
 
 <h2>Description</h2>
-In this project, Azure Key Vault was integrated with an Azure SQL Database to implement Always Encrypted. This involved creating a Key Vault, managing encryption keys, and securing sensitive data at rest and in transit. The project demonstrated methods to enhance data confidentiality and meet compliance standards using Azure's advanced encryption features.
+In this project, I designed and implemented a fully functional Identity and Access Management (IAM) home lab using virtual machines to simulate a real-world enterprise environment. The lab included the configuration of Active Directory Domain Services (AD DS), the deployment of NAT and DHCP servers, the creation of over 1,000 users assigned to various groups, and the application of group policies to manage permissions and security settings. Additionally, I integrated the AD domain with Okta and Microsoft Entra ID (Azure AD), enabling seamless Single Sign-On (SSO) and hybrid identity management. Cloud synchronization was performed using Microsoft Entra ID to ensure centralized identity management across on-premises and cloud-based environments.
 <br />
 <p align="center">
 <img src="https://imgur.com/jii6PUT.png" height="85%" width="85%" alt="Active Directory Homelab Setup"/>
@@ -134,4 +134,4 @@ Create and Configure Windows 10 and Join to AD DS: <br/>
 
 
 <h2>Conclusion:</h2>
-The project showcased the effective integration of Azure Key Vault with Always Encrypted to secure sensitive data in Azure SQL Database. By implementing key management and encryption practices, the project emphasized the importance of safeguarding critical information, ensuring confidentiality, and meeting compliance requirements in cloud-based environments.
+This project demonstrated my ability to design and implement a robust Identity and Access Management (IAM) solution by combining on-premises infrastructure with cloud-based services. By building a fully functional lab environment, I reinforced my hands-on experience in configuring Active Directory, deploying critical network services, managing large-scale user and group structures, enforcing group policies, and integrating with modern cloud platforms like Okta and Microsoft Entra ID. The successful synchronization of identities between on-premises and cloud environments highlights my expertise in hybrid identity management, showcasing skills essential for securing and streamlining enterprise-level IAM operations.
